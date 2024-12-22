@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("ASSETS/Amazon clone/amazon_logo.png");
+    background-image: url("./Assets/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -172,7 +172,7 @@ span {
 
 
 .hero-section {
-    background-image: url("ASSETS/Amazon clone/hero_image.jpg");
+    background-image: url("./Assets/hero_image.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
@@ -291,7 +291,7 @@ footer {
 }
     /* footer logo */
 .logo {
-    background-image: url("ASSETS/Amazon clone/amazon_logo.png");
+    background-image: url("./Assets/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
